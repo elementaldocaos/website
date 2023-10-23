@@ -1,0 +1,47 @@
+body {
+    color: #ffffff;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding:0;/*pro nosso texto ficar colado na lateral*/
+   }
+
+.top-bar {
+    text-align: center;
+    font-weight: 700;/*respectivo ao bold*/
+    color: white;
+    font-size: 24px;
+    background-color: #333;
+    padding: 8px;
+    border-bottom: 5px solid orange;
+}
+
+.container{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+    
+}
+.header{margin: auto;
+    
+
+}
+
+footer{
+    text-align: center;
+    padding: 6px;
+  
+}
+
+li{
+    font-weight: bold;
+}
+p.topic{
+    font-weight: 300;
+}
+p.content{
+    font-weight: 300;
+}
+p#main{
+    font-weight: 400;
+    padding-bottom: 10px;
+}
